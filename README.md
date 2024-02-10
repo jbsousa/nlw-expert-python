@@ -6,9 +6,9 @@ Este é um projeto em Python desenvolvido durante a NLW Expert 2024.
 
 Para instalar as bibliotecas necessárias, utilize o seguinte comando:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Funcionalidades
 
